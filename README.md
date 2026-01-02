@@ -1,5 +1,5 @@
 # Chrome Mouse Wheel Tab Scroller
-
+# 使用鼠标滚轮滚动Google Chrome标签页
 Program for scolling Google Chrome tabs using a mouse wheel.
 
 Windows-only, tested only with Google Chrome.
